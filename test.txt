@@ -1,0 +1,28 @@
+POST / HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Content-Length: 159
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Cookie: abuse_interstitial=576c-59-96-112-197.ngrok-free.app; PHPSESSID=bb684ef811a9482a5570f36e716a79d5; session=eyJjc3JmX3Rva2VuIjoiYWU2ZGY5NGJkNjdlODM2ODA2MWViMmNhZDk2ZmJhMjhlNWQ1MDdlYiJ9.Z-v99A.PeGc3n7HQHXBfKn_tOJJGFvXlhA
+Dnt: 1
+Origin: https://576c-59-96-112-197.ngrok-free.app
+Priority: u=0, i
+Referer: https://576c-59-96-112-197.ngrok-free.app/
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Sec-Gpc: 1
+Te: trailers
+Upgrade-Insecure-Requests: 1
+X-Forwarded-For: 59.96.112.197
+X-Forwarded-Host: 576c-59-96-112-197.ngrok-free.app
+X-Forwarded-Proto: https
+csrf_token=ImFlNmRmOTRiZDY3ZTgzNjgwNjFlYjJjYWQ5NmZiYTI4ZTVkNTA3ZWIi.Z-wDYQ.2PNw2P7orudAH5sYHMG80T-y_ZU&username=12345678%40A&password=12345678%40A&submit=login
+
+
+
+403 forbidden SQL Injection Suspicion - IP Blocked
